@@ -1,0 +1,10 @@
+{
+  "pottery": [
+    {
+      "id": 1,
+      "shape": "circle",
+      "hight": "5in",
+      "weight": 3
+    }
+  ]
+}
