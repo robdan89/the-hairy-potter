@@ -3,8 +3,47 @@
     {
       "id": 1,
       "shape": "circle",
-      "hight": "5in",
-      "weight": 3
+      "height": "1in",
+      "weight": 4,
+      "fired": true,
+      "cracked": false,
+      "price": 40
+    },
+    {
+      "id": 2,
+      "shape": "oval",
+      "height": "2in",
+      "weight": 3,
+      "fired": true,
+      "cracked": true,
+      "price": 0
+    },
+    {
+      "id": 3,
+      "shape": "triangle",
+      "height": "3in",
+      "weight": 2,
+      "fired": true,
+      "cracked": false,
+      "price": 20
+    },
+    {
+      "id": 4,
+      "shape": "square",
+      "height": "4in",
+      "weight": 5,
+      "fired": true,
+      "cracked": false,
+      "price": 40
+    },
+    {
+      "id": 5,
+      "shape": "pentagon",
+      "height": "5in",
+      "weight": 1,
+      "fired": true,
+      "cracked": false,
+      "price": 20
     }
   ]
 }
